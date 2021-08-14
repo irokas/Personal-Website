@@ -1,21 +1,78 @@
+body {
+  margin: 0;
+}
 .main {
-    margin-top: 4%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+  margin-top: 4%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .contact {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    width: 40%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  width: 40%;
 }
-a{
-    display: flex;
-    justify-content: center;
+a {
+  display: flex;
+  justify-content: center;
 }
 .icon {
-    width: 30%;
+  width: 30%;
+}
+
+.navbar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* background-color: #792525; */
+  background-color: black;
+  height: 12vh;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.navlogo {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  margin-left: 2vh;
+}
+
+.navlogo img {
+  height: 100%;
+}
+
+.navlogo p {
+  color: white;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+.navitems {
+  width: 40%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.navitems a {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  width: 100%;
+}
+
+.home {
+  height: 88vh;
+  width: 100%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

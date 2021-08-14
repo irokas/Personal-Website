@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="345" viewBox="0 0 250 345">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="250" height="345"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="250" height="345" fill="#fff"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(-340 -71)">
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(590 416) rotate(180)" stroke="#707070" stroke-width="1">
+        <rect width="250" height="345" stroke="none"/>
+        <rect x="0.5" y="0.5" width="249" height="344" fill="none"/>
+      </g>
+      <line id="Line_1" data-name="Line 1" x2="207" y2="102" transform="translate(361.5 185)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x2="207" y2="102" transform="translate(361.5 200)" fill="none" stroke="#fff" stroke-width="1"/>
+      <path id="heart-regular" d="M21.487,33.421A7.321,7.321,0,0,0,12,34.09a7.316,7.316,0,0,0-9.487-.669,6.536,6.536,0,0,0-.5,9.872l8.222,7.976a2.549,2.549,0,0,0,3.525,0L21.984,43.3A6.541,6.541,0,0,0,21.487,33.421Zm-1.106,8.368-8.222,7.976a.2.2,0,0,1-.319,0L3.619,41.789a4.455,4.455,0,0,1,.342-6.726,4.927,4.927,0,0,1,6.4.469L12,37.125l1.641-1.593a4.924,4.924,0,0,1,6.4-.473A4.473,4.473,0,0,1,20.381,41.789Z" transform="translate(355 75.022)" fill="#f51818"/>
+      <path id="heart-regular-2" data-name="heart-regular" d="M21.487,33.421A7.321,7.321,0,0,0,12,34.09a7.316,7.316,0,0,0-9.487-.669,6.536,6.536,0,0,0-.5,9.872l8.222,7.976a2.549,2.549,0,0,0,3.525,0L21.984,43.3A6.541,6.541,0,0,0,21.487,33.421Zm-1.106,8.368-8.222,7.976a.2.2,0,0,1-.319,0L3.619,41.789a4.455,4.455,0,0,1,.342-6.726,4.927,4.927,0,0,1,6.4.469L12,37.125l1.641-1.593a4.924,4.924,0,0,1,6.4-.473A4.473,4.473,0,0,1,20.381,41.789Z" transform="translate(575 411.978) rotate(180)" fill="#f51818"/>
+      <text id="K" transform="translate(572 389) rotate(180)" fill="#fff" font-size="20" font-family="BigCaslon-Medium, Big Caslon" font-weight="500"><tspan x="0" y="0">K</tspan></text>
+      <g id="Group_1" data-name="Group 1">
+        <line id="Line_3" data-name="Line 3" y1="63" x2="40" transform="translate(410.5 145.5)" fill="none" stroke="#fff" stroke-width="1"/>
+        <line id="Line_4" data-name="Line 4" x1="51" transform="translate(450.5 145.5)" fill="none" stroke="#fff" stroke-width="1"/>
+        <path id="Path_1" data-name="Path 1" d="M465,235.806l13.134-42.283-3.815-47.417" transform="translate(-0.583 -0.339)" fill="none" stroke="#fff" stroke-width="1"/>
+        <path id="Path_2" data-name="Path 2" d="M476,164.92l17.094-4.528,8.587-13.052" transform="translate(-0.603 -1.573)" fill="none" stroke="#fff" stroke-width="1"/>
+        <path id="Path_3" data-name="Path 3" d="M493.826,157.958l-1.952,9.822,5.324,7.3-5.324.424,3.215,4.642-1.783,1.576,1.429,1.692-3.42,3.414,1.991,5.355H478.893L497.2,211.016l-31.6,23.64" transform="translate(-1 0.896)" fill="none" stroke="#fff" stroke-width="1"/>
+        <path id="Path_4" data-name="Path 4" d="M496.2,211.506v38.7" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(905 474.705) rotate(180)">
+        <path id="Path_5" data-name="Path 5" d="M0,63,40,0" transform="translate(410.5 145.5)" fill="none" stroke="#fff" stroke-width="1"/>
+        <path id="Path_6" data-name="Path 6" d="M51,0H0" transform="translate(450.5 145.5)" fill="none" stroke="#fff" stroke-width="1"/>
+        <path id="Path_1-2" data-name="Path 1" d="M465,235.806l13.134-42.283-3.815-47.417" transform="translate(-0.583 -0.339)" fill="none" stroke="#fff" stroke-width="1"/>
+        <path id="Path_2-2" data-name="Path 2" d="M476,164.92l17.094-4.528,8.587-13.052" transform="translate(-0.603 -1.573)" fill="none" stroke="#fff" stroke-width="1"/>
+        <path id="Path_3-2" data-name="Path 3" d="M493.826,157.958l-1.952,9.822,5.324,7.3-5.324.424,3.215,4.642-1.783,1.576,1.429,1.692-3.42,3.414,1.991,5.355H478.893L497.2,211.016l-31.6,23.64" transform="translate(-1 0.896)" fill="none" stroke="#fff" stroke-width="1"/>
+        <path id="Path_4-2" data-name="Path 4" d="M496.2,211.506v38.7" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+    </g>
+    <text id="I" transform="translate(23 27)" fill="#fff" stroke="#fff" stroke-width="1" font-size="20" font-family="BigCaslon-Medium, Big Caslon" font-weight="500"><tspan x="0" y="0">I</tspan></text>
+  </g>
+</svg>
