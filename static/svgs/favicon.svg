@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17.2" viewBox="0 0 16 17.2">
+  <g id="Path_15" data-name="Path 15" transform="translate(0 0.6)">
+    <path d="M 15.5 15.5 L 0.5 15.5 L 0.5 0.5 L 15.5 0.5 L 15.5 15.5 Z" stroke="none"/>
+    <path d="M 1 1 L 1 15 L 15 15 L 15 1 L 1 1 M 0 0 L 16 0 L 16 16 L 0 16 L 0 0 Z" stroke="none"/>
+  </g>
+  <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(0.5 0.1)">
+    <text id="K" transform="translate(15 8) rotate(180)" fill="#fff" stroke="#de2f2f" stroke-width="0.1" font-size="10" font-family="BigCaslon-Medium, Big Caslon" font-weight="500"><tspan x="0" y="0">K</tspan></text>
+    <text id="I" transform="translate(0 9)" fill="#fff" stroke="#de2f2f" stroke-width="0.1" font-size="10" font-family="BigCaslon-Medium, Big Caslon" font-weight="500"><tspan x="0" y="0">I</tspan></text>
+  </g>
+</svg>

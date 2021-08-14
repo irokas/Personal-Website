@@ -1,26 +1,10 @@
 body {
   margin: 0;
 }
-.main {
-  margin-top: 4%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
 
-.contact {
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  width: 40%;
-}
 a {
   display: flex;
   justify-content: center;
-}
-.icon {
-  width: 30%;
 }
 
 .navbar {
@@ -28,7 +12,6 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* background-color: #792525; */
   background-color: black;
   height: 12vh;
   margin-top: 0%;
@@ -40,7 +23,6 @@ a {
   height: 100%;
   display: flex;
   align-items: center;
-  margin-left: 2vh;
 }
 
 .navlogo img {
@@ -55,6 +37,7 @@ a {
 
 .navitems {
   width: 40%;
+  height: 100%;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -65,6 +48,13 @@ a {
   font-size: 18px;
   text-decoration: none;
   width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.navitems a:hover {
+  background-color: rgb(82, 82, 82);
 }
 
 .home {
