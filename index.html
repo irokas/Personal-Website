@@ -8,25 +8,31 @@
       crossorigin="anonymous"
     ></script>
     <link rel="stylesheet" href="style.css" />
-    <link rel="icon" href="static/svgs/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="static/svgs/favicon.ico" type="image/svg+xml" />
     <title>Iro Kasidiari</title>
   </head>
   <body>
     <div class="navbar">
       <span class="navlogo">
-        <img src="static/svgs/blacklogocrown.svg" />
-        <p>Iro Kasidiari</p>
+        <img class="logoimage" src="static/svgs/blacklogocrown.svg" />
+        <p class="logoname">Iro Kasidiari</p>
       </span>
       <span class="navitems">
-        <a href="#home">Home</a>
-        <a href="#about">About Me</a>
-        <a href="#contact">Contact</a>
+        <a href="#home" id="home_button">Home</a>
+        <a href="#about" id="about_button">About Me</a>
+        <a href="#contact" id="contact_button">Contact</a>
       </span>
     </div>
-
     <div class="home">
       <p>Welcome</p>
     </div>
+    <div class="about">
+      <p>About</p>
+    </div>
+    <div class="contact">
+      <p>Contact</p>
+    </div>
+    <img src="static/svgs/spades.svg" id="scrollImg" fill="red" />
     <script src="main.js"></script>
   </body>
 </html>
