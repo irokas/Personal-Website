@@ -12,7 +12,7 @@ scrollTo('about_button', 'about');
 scrollTo('scrollImg', 'home');
 
 reverseNavbar = () => {
-  if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
+  if (document.body.scrollTop > 85 || document.documentElement.scrollTop > 85) {
     document.getElementsByClassName('navbar')[0].classList.add('reverse');
   } else {
     document.getElementsByClassName('navbar')[0].classList.remove('reverse');
